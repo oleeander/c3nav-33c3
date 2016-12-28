@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Haquium Marburgensis",
+        "en": "Haquium Marburgensis"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [105.31, 139.19],
+                [105.69, 137.38],
+                [109.47, 137.41],
+                [109.56, 139.28],
+                [105.31, 139.19]
+            ]
+        ]
+    }
+}
